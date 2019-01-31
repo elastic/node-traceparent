@@ -1,0 +1,33 @@
+{
+  "name": "traceparent",
+  "version": "1.0.0",
+  "description": "Context management helper for the w3c traceparent header format",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "elastic",
+    "apm",
+    "trace",
+    "context",
+    "w3c",
+    "traceparent"
+  ],
+  "author": "Stephen Belanger <stephen.belanger@elastic.co> (https://github.com/qard)",
+  "license": "MIT",
+  "dependencies": {
+    "random-poly-fill": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elastic/node-traceparent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elastic/node-traceparent/issues"
+  },
+  "homepage": "https://github.com/elastic/node-traceparent#readme"
+}
