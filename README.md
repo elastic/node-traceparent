@@ -1,9 +1,7 @@
 # traceparent
 
 [![npm](https://img.shields.io/npm/v/traceparent.svg)](https://www.npmjs.com/package/traceparent)
-[![Build status](https://travis-ci.org/elastic/node-traceparent.svg?branch=master)](https://travis-ci.org/elastic/node-traceparent)
-[![codecov](https://img.shields.io/codecov/c/github/elastic/node-traceparent.svg)](https://codecov.io/gh/elastic/node-traceparent)
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Test status](https://github.com/elastic/node-traceparent/workflows/Test/badge.svg)](https://github.com/elastic/node-traceparent/actions)
 
 This is a basic implementation of the traceparent header part of the W3C trace context spec.
 

@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/elastic/node-traceparent/issues"
   },
-  "homepage": "https://github.com/elastic/node-traceparent#readme"
+  "homepage": "https://github.com/elastic/node-traceparent#readme",
+  "engines": {
+    "node": ">=6"
+  }
 }
