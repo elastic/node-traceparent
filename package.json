@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Context management helper for the w3c traceparent header format",
   "main": "index.js",
+  "types": "types.d.ts",
   "scripts": {
     "test": "tape test.js"
   },
