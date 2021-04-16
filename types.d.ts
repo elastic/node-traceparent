@@ -20,8 +20,6 @@ declare module "traceparent" {
         toString(): string;
         ensureParentId(): string;
     }
-
-    namespace TraceParent {}
-
+    
     export = TraceParent;
 }
