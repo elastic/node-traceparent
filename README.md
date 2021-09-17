@@ -83,4 +83,4 @@ Return the parent ID, if there is none, generate one. This is useful in browser 
 
 [MIT](LICENSE)
 
-[traceparent]: https://github.com/w3c/trace-context/blob/master/spec/20-http_header_format.md
+[traceparent]: https://github.com/w3c/trace-context/blob/main/spec/20-http_request_header_format.md
